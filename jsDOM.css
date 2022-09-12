@@ -1,0 +1,12 @@
+.first-div{
+    padding: 2rem;
+    text-align: center;
+    font-size: 2rem;
+}
+
+.second-div{
+    padding: 2rem;
+    text-align: center;
+    font-size: 2rem;
+    background-color: red;
+}
